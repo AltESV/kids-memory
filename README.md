@@ -1,9 +1,10 @@
-##Demo
+# Demo
+
 https://ephemeral-lebkuchen-2c46a7.netlify.app/
 
--shuffle cards with spread, sort and map
--rotate cards
--confetti
+-shuffle cards with spread, sort and map.\
+-rotate cards.\
+-confetti.\
 
 
 # Getting Started with Create React App
